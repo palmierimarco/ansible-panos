@@ -5,9 +5,9 @@ This script helps engineers to automate PanOs firewalls configuration through Pa
 
 ### Requirements
 
-This script tested on Linux/WSL with python3.9.  
+This script tested on Linux/WSL with python 3.9 and 3.10.  
 The following packages are required:
- - python3.9
+ - python3.9 or 3.10
  - ansible
  - pan-os-python
  - pan-python
